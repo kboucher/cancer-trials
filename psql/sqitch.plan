@@ -2,3 +2,4 @@
 %project=cancer-trials
 %uri=https://github.com/kboucher/cancer-trials
 
+appschema 2018-05-31T02:48:23Z Kevin P. Boucher <kevin@kevinboucher.com> # Add schema for all cancer-trials objects.
